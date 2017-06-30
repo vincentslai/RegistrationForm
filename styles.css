@@ -1,0 +1,15 @@
+
+label {
+  float: left;
+  width: 200px;
+
+}
+
+p > span {
+  font-weight: bold;
+}
+
+.align1 {
+  padding-left: 40px;
+  padding-top: 20px;
+}
